@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(0, 0, 0, 0.2);
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 640px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input, button{
+    padding: 10px;
+    width: 320px;
+    margin: 0 auto;
+}
+
+.texto{
+    margin-top: 40px;
+}
