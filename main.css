@@ -25,8 +25,16 @@ input, button{
     padding: 10px;
     width: 320px;
     margin: 0 auto;
+    margin-top: 15px;
 }
 
 .texto{
+    margin-top: 40px;
+}
+
+.title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
     margin-top: 40px;
 }
